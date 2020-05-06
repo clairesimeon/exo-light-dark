@@ -13,7 +13,7 @@ struct NeoInterface: View {
         ZStack{
             Color(UIColor.systemGray6)
         VStack{
-            RoundedRectangle(cornerRadius: 10)
+            RoundedRectangle(cornerRadius: 11)
                                
                        .fill(Color(UIColor.systemGray6))
                            .frame(width: 323.0, height: 120.0)
